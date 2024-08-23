@@ -1,0 +1,49 @@
+.titulo-principal{ /* Modificación del título */
+    padding-left: 30px;
+}
+
+
+#banner{ /* Configuración del ancho del vídeo */
+    width: 100%;
+}
+
+.principal{ /* Fondo gris para el primer bloque de contenido */
+    background: #CCCCCC;
+    padding: 20px;
+}
+
+.titulo-centralizado{ /* Título H2 centrado */
+    text-align: center;
+}
+
+p{
+    text-align: center; /* Párrafo centrado */
+}
+
+em strong{ /* Agrega al título enfatizado y con negrita color rojo */
+    color:hwb(0 0% 0%);
+}
+
+#mision{ /* Aumenta el tamaño de misión */
+    font-size: 20px;
+}
+
+.diferenciales{ /* Fondo blanco para la sección diferenciales */
+    background: #FFFFFF;
+    padding: 30px;
+}
+
+.items{ /* Elementos de la lista */
+    font-style: italic;
+}
+
+ul{ /* Lista no ordenada sin atributo de bloque para que la imagen este en la misma línea */
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales{ /* Se ajusta la imagen a 50% */
+    width: 50%; 
+}
